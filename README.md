@@ -19,7 +19,7 @@ Recognition (OCR)*, *Cucumber integration*, and *Java AWT Robot enhancements*.
 
 The **SAFS installation** code is also included in this repository.
 
-This repository can be imported in Eclipse as a normal Java Project. It does have a dependency on another repository: [SAFS-Android-Remote-Control ](https://github.com/SAFSDEV/SAFS-Android-Remote-Control).
+This repository can be imported in Eclipse as a normal Java Project. It does have a dependency on another repository: [SAFS-Android-Remote-Control](https://github.com/SAFSDEV/SAFS-Android-Remote-Control).
 
 To set up the development correctly, please refer to document [Environment Setup for Developers](https://github.com/kid551/Tmp-Test/blob/master/developer_setup.md).
 
