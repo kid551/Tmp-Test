@@ -19,7 +19,7 @@ TestDDVariableProperties.vbs   | VB Script example to call *DDVariableStore.DLL*
 ### Q&A
 **1. Is there any command line to build DDVariableStore.DLL**
 
-Yes, by running *VB6 /make DDVariableStore.vbp*. VB6 compiles *DDVariableStore.vbp* and generate the DLL, using the existing settings stored in the project file.
+Yes, by running ```VB6 /make DDVariableStore.vbp```. VB6 compiles *DDVariableStore.vbp* and generate the DLL, using the existing settings stored in the project file.
 
 **2. How to register DDVariableStore.DLL**
 
