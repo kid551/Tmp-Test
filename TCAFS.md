@@ -6,7 +6,7 @@ It is part of and distributed with the SAFS Test Automation Framework.
 If you are running an earlier version of TestComplete you will need to upgrade to **TestComplete 9** or transfer the Script and UserForms to your TestComplete Project repository.  Alternatively, you might be able to overwrite this V9 repository with an appropriate earlier version.
 
 
-### To use\verify the SAFS/TCAFS Engine:
+### To use/verify the SAFS/TCAFS Engine:
 1. Test Complete 9.0 or higher must be installed and connecting properly to any local or remote License Server.
 2. If not done as part of the original SAFS install, OR if Test Complete has been installed or upgraded AFTER the SAFS install:
   1. Execute *C:\SAFS\SetupTCAFS.wsf*, which will set the **%TESTCOMPLETE_HOME%** environment variable to the correct Test Complete install directory.
