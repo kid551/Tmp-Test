@@ -23,7 +23,7 @@ Yes, by running ```VB6 /make DDVariableStore.vbp```. VB6 compiles *DDVariableSto
 
 **2. How to register DDVariableStore.DLL**
 
-*STAFWrap.DLL* is supposed to be in the directory where DDVariableStore.DLL stays. In DOS command line, for example: run ```regsvr32 c:\mypath\DDVariableStore.DLL```
+*STAFWrap.DLL* is supposed to be in the directory where DDVariableStore.DLL stays. In DOS command line, for example: run ```regsvr32 c:\mypath\DDVariableStore.DLL```.
 
 **3. How to use DDVariableStore.DLL**
 
