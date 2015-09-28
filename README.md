@@ -24,4 +24,5 @@ This repository can be imported in Eclipse as a normal Java Project. It does hav
 To set up the development correctly, please refer to document [Environment Setup for Developers](https://github.com/kid551/Tmp-Test/blob/master/developer_setup.md).
 
 
-SEP 17, 2015
+
+<sub>SEP 17, 2015</sub>
