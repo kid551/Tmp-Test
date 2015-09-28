@@ -19,15 +19,15 @@ TestDDVariableProperties.vbs   | VB Script example to call *DDVariableStore.DLL*
 ### Q&A
 **1. Is there any command line to build DDVariableStore.DLL**
 
-&nbsp;&nbsp;Yes, by running *VB6 /make DDVariableStore.vbp*. VB6 compiles *DDVariableStore.vbp* and generate the DLL, using the existing settings stored in the project file.
+Yes, by running *VB6 /make DDVariableStore.vbp*. VB6 compiles *DDVariableStore.vbp* and generate the DLL, using the existing settings stored in the project file.
 
 **2. How to register DDVariableStore.DLL**
 
-&nbsp;&nbsp;*STAFWrap.DLL* is supposed to be in the directory where DDVariableStore.DLL stays. In DOS command line, for example: run ```regsvr32 c:\mypath\DDVariableStore.DLL```
+*STAFWrap.DLL* is supposed to be in the directory where DDVariableStore.DLL stays. In DOS command line, for example: run ```regsvr32 c:\mypath\DDVariableStore.DLL```
 
 **3. How to use DDVariableStore.DLL**
 
-&nbsp;&nbsp;DDVariableStore.DLL is a COM automation interface. It is easy to be used in different languages.
+*DDVariableStore.DLL* is a COM automation interface. It is easy to be used in different languages.
 
 
 ### Example
