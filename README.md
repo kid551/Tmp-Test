@@ -25,6 +25,4 @@ To set up the development correctly, please refer to document [Environment Setup
 
 <br />
 <br />
-<br />
-
 <sub>SEP 17, 2015</sub>
