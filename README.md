@@ -1,6 +1,6 @@
 ﻿# Environment Setup for Developers
 
-### [-] Prepare Build Environment
+### Prepare Build Environment
 Before you can successfully run any build, you need to *install/verify* the following:
 
 1. Prepare Ant
