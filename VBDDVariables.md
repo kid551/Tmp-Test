@@ -1,7 +1,7 @@
 # VBDDVariables
 *DDVariableStore.DLL* is a **COM** interface. There are several tools that require the *DDVariableStore.DLL*. Primarily, these are tools that cannot call DLL functions directly and thus we provide a COM interface to STAF.
 
-### Main assets 
+### Main Assets 
 Three VB6 projects are available. VB6 is required before opening them.
 
 
@@ -19,12 +19,11 @@ TestDDVariableProperties.vbs   | VB Script example to call *DDVariableStore.DLL*
 ### Q&A
 **1. Is there any command line to build DDVariableStore.DLL**
 
-  Yes by running "VB6 /make DDVariableStore.vbp". VB6 compiles DDVariableStore.vbp and generate the DLL, using the existing settings stored in the project file.
+  Yes, by running *VB6 /make DDVariableStore.vbp*. VB6 compiles *DDVariableStore.vbp* and generate the DLL, using the existing settings stored in the project file.
 
 **2. How to register DDVariableStore.DLL**
 
-  STAFWrap.DLL is supposed to be in the directory where DDVariableStore.DLL stays. In DOS command line, for example run ¡°regsvr32 c:\mypath\DDVariableStore.DLL¡±
-
+  *STAFWrap.DLL* is supposed to be in the directory where DDVariableStore.DLL stays. In DOS command line, for example run ```regsvr32 c:\mypath\DDVariableStore.DLL```
 
 **3. How to use DDVariableStore.DLL**
 
