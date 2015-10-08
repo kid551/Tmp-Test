@@ -6,9 +6,9 @@ FILE                         |         PURPOSE
 A_README.txt                    |       This README file.
 GNU General Public License.txt  |       Public License Text.
 SAFSReleaseNotes....htm         |       Release Notes for this Release.
-SetupSAFS.WSF                   |       Default Silent Install Script (WSH 5.6)
-                                       Examples:
-                                       If you prefer STAF 3, modify 2/3 to 3; If STAF 2, modify 2/3 to 2.
+SetupSAFS.WSF                   |       Default Silent Install Script (WSH 5.6) <br /> <br />
+									Examples: <br />
+                                       If you prefer STAF 3, modify 2/3 to 3; If STAF 2, modify 2/3 to 2. <br />
                                        1. "SetupSAFS.WSF -installstafversion 2/3 -noprompt"
                                           -- to install SAFS with RATIONAL and STAF 2 or 3							   	  
                                        2. "SetupSAFS.WSF -installstafversion 2/3 -noprompt -norational"
