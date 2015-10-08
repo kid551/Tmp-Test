@@ -4,5 +4,5 @@
 3. **RFT** library, this is provided *internally* as it is not free.
 4. Eclipse plugin library, this will be indicated by user himself, it should be given with an OS environment *ECLIPSEJARS*, such as ```ECLIPSEJARS=c:/eclipse/plugins```.
 
-# Note
+### Note
 All the dependency files except *Eclipse plugin library* will be copied to folder *libs* during the build.
