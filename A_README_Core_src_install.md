@@ -6,7 +6,6 @@ FILE                         |         PURPOSE
 A_README.txt                    |       This README file.
 GNU General Public License.txt  |       Public License Text.
 SAFSReleaseNotes....htm         |       Release Notes for this Release.
-
 SetupSAFS.WSF                   |       Default Silent Install Script (WSH 5.6)
                                        Examples:
                                        If you prefer STAF 3, modify 2/3 to 3; If STAF 2, modify 2/3 to 2.
