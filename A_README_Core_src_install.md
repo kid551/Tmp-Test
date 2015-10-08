@@ -1,5 +1,5 @@
 
-# Assets in SAFS Setup directory:
+# Assets in SAFS Setup directory
 
 FILE                         |         PURPOSE
 ------------ | -------------
