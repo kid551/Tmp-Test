@@ -20,26 +20,18 @@ SetupSAFS.WSF                   |       Default Silent Install Script (WSH 5.6)
                                        	  -- to install only STAF 2 or 3
                                        5. "SetupSAFS.WSF -removestaf c:\staf 2/3 -noprompt -nostaf -nosafs -norational"
                                           -- to uninstall only STAF 2 or 3
-
-SetupSAFS.WSF.README.txt        |       A README file to tell how to use SetupSAFS.WSF
-									      									   
+SetupSAFS.WSF.README.txt        |       A README file to tell how to use SetupSAFS.WSF									      									   
 SetupSAFS.VBS                   |       Deprecated. Use SetupSAFS.WSF.
-
 SetupSAFS.README.htm            |       Instructions for SAFS Setup.
 SetupRobotJ.README.htm          |       Instructions for RobotJ Project Setup.
 SetupRuntime.README.htm         |       Instructions for running SAFS with Rational Robot.
-
 SAFSInstall.JAR                 |       Java Install Program (called by script).
 SAFSInstall.ZIP                 |       Files for Java Install Program.
 STAF2611-setup-win32.JAR        |       STAF 2 Install Program (called by script).
 STAF333-setup-win32.exe         |       STAF 3 Install Program (called by script).
-
 SAFSTID.INI                     |       Used by Tool-Independent Driver.
-
-Remove???Classpath.VBS          |       Used by scripts or invoked by user.
-Setup???Classpath.VBS           |       Used by scripts or invoked by user.
-
+Remove???Classpath.VBS          |       Used by scripts or invoked by user. (The question mark indicates multiple same type naming file.)
+Setup???Classpath.VBS           |       Used by scripts or invoked by user. (The question mark indicates multiple same type naming file.)
 _SharedFunctions.VBS            |       Functions used by scripts.
 _SharedRationalFunctions.VBS    |       Functions used by scripts.
-
 UninstallSAFS.wsf               |       Script to uninstall SAFS. 
