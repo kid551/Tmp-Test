@@ -1,5 +1,10 @@
 # SeleniumPlus Regression
 
+This project is used for SeleniumPlus Regression testing. It gives the basic usage of SeleniumPlus and contains script ```runAutomation.bat``` to run whole Regression in Windows environment.
+* ```Tests.regression``` folder contains all the concrete test cases.
+* ```Logs``` folder contains the log information file and generated Summary/Failure Report, which is convenient to read.
+* ```runAutomation.bat``` script is used for running whole project without Eclipse. If you're using Jenkins to integrate your testing, this script is good example to show how to organize your jobs in Windows side. Then, you can use Jenkins to call this script to automatize your testing work.
+
 ## Test case specifications in Regression
 
 In order to get generate detailed Regression summary report, there're some specifications need to be followed when using the ```Counters``` in test case. (More details about ```Counters``` can be found in *SelniumPlus.java* in [Core](https://github.com/SAFSDEV/Core) project.) It'll give testing case clear structure and accurate testing positions, which is convenient for developers to debug.
