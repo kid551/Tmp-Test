@@ -1,6 +1,6 @@
 # SAFS Core Project
 
-# Test GeekllTerry Comments.
+# Test geekllTerry Comments.
 
 This repository contains Core codes like: **services**, **drivers**, **engines** and **hooks** etc.
 
